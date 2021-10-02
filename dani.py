@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 #DDOS TCP BY MR.DANI
 import socket
 import random
